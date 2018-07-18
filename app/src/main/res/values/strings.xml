@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">scrollingtext</string>
+<string name="article_title">Beatles Anathology vol.1</string>
+<string name="article_subtitle">behind that lock door:beatles rearities!</string>
+<string name="article_text">In a vault deep inside abbey road studios
+RelativeLayout allows you to position its child Views relative
+to each other or relative to the parent RelativeLayout itself.
+The default "Hello World" TextView element that is created by
+the Empty Layout template is a child View within the
+RelativeLayout view group. For more information about
+using a RelativeLayout.
+In a vault deep inside abbey road studios
+RelativeLayout allows you to position its child Views relative
+to each other or relative to the parent RelativeLayout itself.
+The default "Hello World" TextView element that is created by
+the Empty Layout template is a child View within the
+RelativeLayout view group. For more information about
+using a RelativeLayout.
+In a vault deep inside abbey road studios
+RelativeLayout allows you to position its child Views relative
+to each other or relative to the parent RelativeLayout itself.
+The default "Hello World" TextView element that is created by
+the Empty Layout template is a child View within the
+RelativeLayout view group. For more information about
+using a RelativeLayout.
+In a vault deep inside abbey road studios
+RelativeLayout allows you to position its child Views relative
+to each other or relative to the parent RelativeLayout itself.
+The default "Hello World" TextView element that is created by
+the Empty Layout template is a child View within the
+RelativeLayout view group. For more information about
+using a RelativeLayout.
+</string>
+
+</resources>
+
